@@ -1,6 +1,6 @@
-# myapp
+# Trabalho Jogo da velha
 
-A new Flutter project.
+Projeto desenvolvido para a diciplina do Talento Tech, desenvolvimento web.
 
 ## Getting Started
 
